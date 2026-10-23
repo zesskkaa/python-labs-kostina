@@ -3,6 +3,6 @@
 безопасности
 Студент: Костина Кристина Сергеевна 
 Группа: ОИБАС-21
-Файл с работой: [Lab 1.txt](Lab 1.txt)
+Файл с работой: [[Lab 1.txt](https://github.com/zesskkaa/python-labs-kostina/blob/main/lab1/Lab%201.txt)]([Lab 1.txt](https://github.com/zesskkaa/python-labs-kostina/blob/main/lab1/Lab%201.txt))
 Описание: Программа содержит функции для валидации MMSI-
 идентификаторов, расчёта энтропии и классификации инцидентов.
